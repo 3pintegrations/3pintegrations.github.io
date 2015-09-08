@@ -69,7 +69,7 @@ section {
 }
 
 aside {
-    padding: 50px 0;
+    padding: 150px 0;
 }
 
 .no-padding {
@@ -124,7 +124,7 @@ aside {
 @media(min-width:768px) {
     .navbar-default {
         border-color: rgba(255,255,255,.3);
-        background-color: transparent;
+        background-color: rgba(240,95,64,.9);
     }
 
     .navbar-default .navbar-header .navbar-brand {
